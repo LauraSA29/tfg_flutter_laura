@@ -1,0 +1,45 @@
+ID;NOMBRE TAREA;PRIORIDAD;ESTIMACIÓN DE HORAS;TIEMPO QUE HA LLEVADO TOTALMENTE;COMENTARIOS;;
+1;Configuración y creación del proyecto;Crítica;2 h;;"Descargué flutter y me encargué ya de configurar 
+todo en VSC, he creado un proyecto por defecto flutter y lo he subido a GitHub";;
+2;Configuración de Odoo;Crítica;4 h;;Hay que usar Odoo y configurarlo;;
+3;Intentar realizar la conexión;Crítica;6 h;;"He visto que hay algunos videos en youtube y
+cosas en internet, depende de si me peta o 
+me funciona a la primera";;
+;;;;;;;
+4;Añadir y diseñar pantalla de inicio;Alta;3 h;;La típica de inicio de sesión;;
+5;Añadir y diseñar pantalla principal;Alta;4 h ;;Con las opciones disponibles;;
+6;Añadir y diseñar otras pantallas;Alta;7 h;;"Depende de la cantidad que se necesiten
+ya que habrá diferentes apartados";;Teniendo en cuenta que puedo ser algo lenta programando:
+;;;;;;;
+7;Desarrollar la pantalla de inicio;Crítica;6 h;;Ver como empezar a poner código;;Intentaré dedicar 2 horas o un poco más al proyecto si es posible cada día
+8;Desarrollar la pantalla principal;Crítica;6 h ;;Ver como empezar a poner código;;Los findes de semana si es posible intentaré dedicarle un poco más de tiempo
+9;Desarrollar las otras pantallas;Crítica;8h;;"Al ser diferentes y tener más funcionalidad
+llevarán bastantes más horas";;(Aprovechar los puentes o cualquier fiesta para trabajar en el proyecto)
+;;;;;;;
+10;Organización del código, carpetas…..;Media;2 h;;"Organizar e intentar mantener el código limpio
+y una estructura ordenada con carpetas, etc..";;He puesto todas las tareas que se me han ocurrido, puede que me falten
+11;Intento de realización de test/pruebas;Media;4h;;"Intentar realizar pruebas aunque no tengo
+mucha idea de como realizarlas, tengo un apartado de test en mi proyecto";;A lo mejor las horas en algunas son muy exageradas o pocas, no lo controlo muy bien
+;;;;;;;
+12;Tener todo subido en GitHub;Media;0.5 h;;"Carpeta con excel/anteproyecto + el proyecto 
+subidas ya en Git. Con el VSC simplemente cada vez
+que avance se guarda y listo";;
+13;Documento Word del proyecto;Crítica;8h;;"Ir escribiendo a medida que avanzo el proyecto,
+añadirle cuando se empiece la estructura del 
+documento para tenerlo más organizado y
+tener idea de que escribir en cada parte";;
+14;Manual de usuario;Media/Alta;5h;;"Se hace más rápido que el documento del 
+proyecto, explicar todo de manera sencilla con
+mucho elemento visual para que el usuario
+pueda entender, etc…";;
+15;Creación del powerpoint;Media/Alta;3 h;;Crear el pwpnt para la presentación del proyecto;;
+16;Repaso de todos los pasos;Crítica;2 h;;"Para encontrar errores en cualquier apartado
+del proyecto";;
+17;Uso de README para el código;Media/Alta;2 h;;Se me olvidaba, poner el código y explicarlo un poco;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
